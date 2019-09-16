@@ -1,6 +1,6 @@
 ### Bixi use and gas prices: negative result
 
-We tried to model how much Bixi use would change when gas prices changed, but we could not detect very much change based on the data we had.
+We tried to model how much Bixi use would change when gas prices changed, but the model was too unstable with the data we had.
 
 The main file is `kaggle/bixi/training.ipynb`.
 
